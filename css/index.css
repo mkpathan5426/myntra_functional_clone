@@ -253,6 +253,8 @@ header {
 
 .item-image {
     width: 100%;
+    height: 333px;
+    object-fit: cover;
 }
 
 .rating {
