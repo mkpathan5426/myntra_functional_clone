@@ -92,8 +92,8 @@ const items = [
     {
         id: '007',
         itemImage: 'images/7.jpg',
-        companyName: 'The Indian Garage Co',
-        itemName: 'Men Slim Fit Regular Shorts',
+        companyName: 'Bulova',
+        itemName: 'Bulova Mens Icon 3-Hand Calendar Watch with Black Polyurethane Strap, Precisionist, Luminous Markers, 300M WR',
         originalPrice: 1599,
         currentPrice: 639,
         discount: 60,
